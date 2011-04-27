@@ -1,0 +1,20 @@
+EAGLE Version 4.16r1 Copyright (c) 1988-2006 CadSoft
+
+Electrical Rule Check for C:/Program Files/EAGLE-4.16r1/projects/RF212_doughter_BMP085/BMP085.sch at  1/22/2011 12:38:47p
+
+WARNING: Sheet 1/1: POWER Pin U$1 VDD connected to VDD3_3
+WARNING: Sheet 1/1: POWER Pin U$1 VDA connected to VDD3_3
+ERROR: Sheet 1/1: unconnected INPUT Pin: U$1 XCLR
+WARNING: Sheet 1/1, Net VDD3_3: missing Junction at (1.2 1)
+
+Pins/Pads with different connections:
+
+  Part     Gate     Pin        Net      Pad      Signal
+
+  SV1                                   1        GND
+  SV1      1        6          GND      6       
+
+ERROR: Board and schematic are not consistent!
+
+    2 errors
+    3 warnings
