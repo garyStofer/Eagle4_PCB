@@ -1,0 +1,12 @@
+EAGLE Version 4.16r1 Copyright (c) 1988-2006 CadSoft
+
+Electrical Rule Check for C:/Program Files/EAGLE-4.16r1/projects/WX_ Temp_Hyg_Sol/wx_station_sensors.sch at 12/06/2010 09:57:51p
+
+WARNING: Sheet 1/1: POWER Pin IC1 +VE connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC1 -VE connected to GND
+WARNING: Sheet 1/1, Net GND: missing Junction at (6.9 0.9)
+
+Board and schematic are consistent
+
+    0 errors
+    3 warnings
