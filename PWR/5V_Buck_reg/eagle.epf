@@ -1,0 +1,58 @@
+[Eagle]
+Version="04 16 10"
+Platform="Windows"
+Serial="681354C010-LSR-W-1CP"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Discrete/c-trimm.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Discrete/diode.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Discrete/inductor-coilcraft.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Discrete/inductor-neosid.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Discrete/inductors.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Discrete/led.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Discrete/ptc-ntc.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Discrete/rcl.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Discrete/resistor-bourns.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Discrete/resistor-dil.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Discrete/resistor-net.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Discrete/resistor-power.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Discrete/resistor-ruf.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Discrete/resistor-shunt.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Discrete/resistor-sil.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Discrete/crystal.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Discrete/varistor.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Cases/ic-package.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Cases/packages.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Cases/smd-special.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/GermanStuff/telefunken.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/GermanStuff/wuerth-elektronik.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Switches/switch-dil.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Switches/switch-misc.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Switches/switch-omron.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Switches/switch.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/TransistorTriac/transistor-fet.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/TransistorTriac/transistor-npn.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/TransistorTriac/transistor-pnp.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/TransistorTriac/transistor-power.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/TransistorTriac/transistor-small-signal.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/TransistorTriac/transistor.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/TransistorTriac/triac.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Vreg/v-reg-micrel.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Vreg/v-reg.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/AllOfMine/dedenbear.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/AllOfMine/Stofer.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/AllOfMine/ZStofer.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/AllOfMine/ATMEL.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="259 102 1510 868"
+State=1
+Number=0
+
+[Desktop]
+Screen="1680 1050"
+Window="Win_1"

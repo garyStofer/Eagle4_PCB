@@ -1,0 +1,18 @@
+Partlist exported from C:/Program Files/EAGLE-4.16r1/projects/5V_Buck_reg/5v_Buck_reg.sch at  6/09/2010 09:06:27a
+
+Part Value           Device            Package    Description                          DigiKey_PN                   
+C1   10uf            CPOL-USSMCD       SMC_D      POLARIZED CAPACITOR, American symbol                              
+C2   0.22uf          C-EUC1210K        C1210K     CAPACITOR, European symbol                                        
+C3   100uf           CPOL-USE/7260-38W E/7260-38W POLARIZED CAPACITOR, American symbol                              
+C4   1.5n            C-EUC1206K        C1206K     CAPACITOR, European symbol                                        
+C5   1.5n            C-EUC1206K        C1206K     CAPACITOR, European symbol                                        
+D1   SSB44-E3        SCHOTTKY-DIODESMB SMB        Schottky Diode                       SSB44-E3/52TGICT-ND          
+D2   1N914           DIODE-SOD323-W    SOD323-W   DIODE                                1N914BWSCT-ND                
+IC1  LT1374          LT1374            DD_PACK_7                                       LT1374CR#PBF-ND              
+JP1                  JP2E              JP2        JUMPER                                                            
+JP2  JST-XH-4        JP4E              JP4        JUMPER                               455-2243-ND -- or 455-2237-ND
+L1   10uH, PCD2152CT INDUCTOR_SMDDR125 DR125      INDUCTOR, American symbol            PCD2152CT-ND or 513-1525-1-ND
+R1   5.1k            R-US_R0805        R0805      RESISTOR, American symbol                                         
+R2   4.7K            R-US_R0805        R0805      RESISTOR, American symbol                                         
+R3   10K             R-US_R0805        R0805      RESISTOR, American symbol                                         
+R4   28k             R-US_R0805        R0805      RESISTOR, American symbol                                         

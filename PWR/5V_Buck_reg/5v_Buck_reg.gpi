@@ -1,0 +1,40 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.16r1/projects/5V_Buck_reg/5v_Buck_reg.gpi
+
+ Date              :  6/06/2010 11:22:23a
+ Plotfile          : C:/Program Files/EAGLE-4.16r1/projects/5V_Buck_reg/5v_Buck_reg.sts
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      oval      0.1200inch x 0.0640inch     7
+ D11      rectangle 0.0671inch x 0.0592inch     4
+ D12      round     0.0476inch               2
+ D13      round     0.0780inch               3
+
