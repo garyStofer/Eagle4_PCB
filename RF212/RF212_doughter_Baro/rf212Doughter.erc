@@ -1,0 +1,36 @@
+EAGLE Version 4.16r1 Copyright (c) 1988-2006 CadSoft
+
+Electrical Rule Check for C:/Program Files/EAGLE-4.16r1/projects/RF212_doughter/rf212Doughter.sch at  9/02/2010 03:49:04p
+
+WARNING: Only 1 Pin on net PD5
+WARNING: Only 1 Pin on net PD6
+WARNING: Only 1 Pin on net V-IN
+WARNING: Sheet 1/1, Net +3.3V: missing Junction at (1.9 1.9)
+WARNING: Sheet 1/1, Net +3.3V: missing Junction at (2.9 1.4)
+WARNING: Sheet 1/1, Net GND: missing Junction at (6.2 2.6)
+WARNING: Sheet 1/1, Net GND: missing Junction at (6.3 2.6)
+WARNING: Sheet 1/1, Net GND: missing Junction at (8 2.6)
+WARNING: Sheet 1/1, Net GND: missing Junction at (2.2 1.7)
+WARNING: Sheet 1/1, Net GND: missing Junction at (2.9 1.7)
+WARNING: Sheet 1/1, Net GND: missing Junction at (2.9 2.9)
+WARNING: Sheet 1/1, Net GND: missing Junction at (3.4 1.7)
+WARNING: Sheet 1/1, Net MOSI: missing Junction at (9.2 2.3)
+
+Pins/Pads with different connections:
+
+  Part     Gate     Pin        Net      Pad      Signal
+
+  EX1                                   2        ADC0
+  EX1                                   3        ADC1
+  EX1                                   4        ADC2
+  EX1                                   5        ADC3
+  EX1                                   6        ADC4
+  EX1                                   7        ADC5
+  EX1                                   8        ADC6
+  EX1                                   9        ADC7
+  EX1                                   10       AGND
+
+ERROR: Board and schematic are not consistent!
+
+    1 errors
+   13 warnings
