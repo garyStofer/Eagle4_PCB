@@ -1,0 +1,83 @@
+EAGLE Version 4.16r1 Copyright (c) 1988-2006 CadSoft
+
+Electrical Rule Check for C:/Program Files/EAGLE-4.16r1/projects/Radio_RF212/RF212_Radio_Base.sch at  6/07/2010 09:00:21a
+
+WARNING: Sheet 1/1: SUPPLY Pin VCC_1 overwritten with +3V3
+WARNING: Sheet 1/1: SUPPLY Pin GND_1 overwritten with GND
+WARNING: Sheet 1/1: SUPPLY Pin VCC_2 overwritten with +3V3
+WARNING: Sheet 1/1: SUPPLY Pin GND_2 overwritten with GND
+WARNING: Sheet 1/1: SUPPLY Pin GND_3 overwritten with GND
+WARNING: Sheet 1/1: SUPPLY Pin VCC_4 overwritten with +3V3
+WARNING: Sheet 1/1: SUPPLY Pin GND_4 overwritten with GND
+ERROR: Sheet 1/1: unconnected INPUT Pin: U$1 XTAL2
+WARNING: Only 1 Pin on net N$39
+WARNING: Sheet 1/1, Net N$1: missing Junction at (2.3 2.2)
+WARNING: Sheet 1/1, Net N$2: missing Junction at (2.3 1.9)
+WARNING: Sheet 1/1, Net N$3: missing Junction at (4.7 2.7)
+WARNING: Sheet 1/1, Net N$4: missing Junction at (4.7 2.4)
+WARNING: Sheet 1/1, Net GND: missing Junction at (-0.5 3.8)
+WARNING: Sheet 1/1, Net GND: missing Junction at (-0.5 3.9)
+WARNING: Sheet 1/1, Net GND: missing Junction at (-0.7 3.8)
+WARNING: Sheet 1/1, Net GND: missing Junction at (-0.8 3.8)
+WARNING: Sheet 1/1, Net GND: missing Junction at (-1.2 3.8)
+WARNING: Sheet 1/1, Net GND: missing Junction at (-1.4 3.8)
+WARNING: Sheet 1/1, Net GND: missing Junction at (-1.6 1.2)
+WARNING: Sheet 1/1, Net GND: missing Junction at (-1.6 1.4)
+WARNING: Sheet 1/1, Net GND: missing Junction at (-1.6 1.7)
+WARNING: Sheet 1/1, Net GND: missing Junction at (5.1 4)
+WARNING: Sheet 1/1, Net GND: missing Junction at (5.1 3.85)
+WARNING: Sheet 1/1, Net GND: missing Junction at (5.4 4)
+WARNING: Sheet 1/1, Net GND: missing Junction at (5.5 1.1)
+WARNING: Sheet 1/1, Net GND: missing Junction at (5.6 1.1)
+WARNING: Sheet 1/1, Net GND: missing Junction at (5.7 1.1)
+WARNING: Sheet 1/1, Net GND: missing Junction at (5.8 1.1)
+WARNING: Sheet 1/1, Net GND: missing Junction at (5.9 1.1)
+WARNING: Sheet 1/1, Net GND: missing Junction at (6 1)
+WARNING: Sheet 1/1, Net GND: missing Junction at (6.1 1.1)
+WARNING: Sheet 1/1, Net GND: missing Junction at (6.2 1.1)
+WARNING: Sheet 1/1, Net GND: missing Junction at (6.3 1.1)
+WARNING: Sheet 1/1, Net GND: missing Junction at (6.4 1.1)
+WARNING: Sheet 1/1, Net GND: missing Junction at (6.5 1.1)
+WARNING: Sheet 1/1, Net GND: missing Junction at (0.9 1.1)
+WARNING: Sheet 1/1, Net GND: missing Junction at (1.1 1.1)
+WARNING: Sheet 1/1, Net GND: missing Junction at (2.8 0.5)
+WARNING: Sheet 1/1, Net GND: missing Junction at (2.8 2.2)
+WARNING: Sheet 1/1, Net AVCC: missing Junction at (0.2 3.7)
+WARNING: Sheet 1/1, Net +3V3: missing Junction at (-0.5 4.5)
+WARNING: Sheet 1/1, Net +3V3: missing Junction at (-0.6 4.5)
+WARNING: Sheet 1/1, Net +3V3: missing Junction at (-0.8 4.5)
+WARNING: Sheet 1/1, Net +3V3: missing Junction at (-1.1 3.1)
+WARNING: Sheet 1/1, Net +3V3: missing Junction at (-0.2 4.5)
+WARNING: Sheet 1/1, Net +3V3: missing Junction at (0.5 4.5)
+WARNING: Sheet 1/1, Net +3V3: missing Junction at (0.5 3.8)
+WARNING: Sheet 1/1, Net +3V3: missing Junction at (0.7 4.5)
+WARNING: Sheet 1/1, Net +3V3: missing Junction at (0.2 4.5)
+WARNING: Sheet 1/1, Net +3V3: missing Junction at (2.7 1.2)
+WARNING: Sheet 1/1, Net +3V3: missing Junction at (3.3 1.5)
+WARNING: Sheet 1/1, Net +3V3: missing Junction at (3.6 1.5)
+WARNING: Sheet 1/1, Net N$18: missing Junction at (4.8 4.5)
+WARNING: Sheet 1/1, Net N$18: missing Junction at (5.1 4.5)
+WARNING: Sheet 1/1, Net N$18: missing Junction at (5.4 4.5)
+WARNING: Sheet 1/1, Net N$18: missing Junction at (5.7 3.5)
+WARNING: Sheet 1/1, Net N$17: missing Junction at (6 3.5)
+WARNING: Sheet 1/1, Net N$46: missing Junction at (-1.6 2.5)
+WARNING: Sheet 1/1, Net N$42: missing Junction at (1.5 0.5)
+WARNING: Sheet 1/1, Net N$47: missing Junction at (1.4 0.6)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (-1.9 4.5)
+WARNING: Sheet 1/1, Net SCK: missing Junction at (4.2 2)
+WARNING: Sheet 1/1, Net MOSI: missing Junction at (4.1 1.9)
+WARNING: Sheet 1/1, Net MISO: missing Junction at (4 1.8)
+WARNING: Sheet 1/1: Nets GND and N$43 too close at (-1.6 1.8)
+WARNING: Sheet 1/1: Nets N$42 and GND too close at (-2.1 2.9)
+WARNING: Sheet 1/1: Nets N$42 and +3V3 too close at (-2.1 3.1)
+WARNING: Sheet 1/1: Nets N$42 and +12V too close at (-2.1 3)
+WARNING: Sheet 1/1, Net GND: wire overlaps pin at (-1.6 1.8)
+WARNING: Sheet 1/1, Net GND: wire overlaps pin at (-0.5 4.15)
+WARNING: Sheet 1/1, Net N$42: wire overlaps pin at (-2.1 2.9)
+WARNING: Sheet 1/1, Net N$42: wire overlaps pin at (-2.1 3)
+WARNING: Sheet 1/1, Net N$42: wire overlaps pin at (-2.1 3.1)
+
+Board and schematic are consistent
+
+    1 errors
+   73 warnings
