@@ -1,0 +1,38 @@
+Partlist
+
+Exported from sdlc.sch at 11/12/2007 02:41:38p
+
+EAGLE Version 4.16r1 Copyright (c) 1988-2006 CadSoft
+
+Part     Value          Device                Package    Library     Sheet
+
+C1       100n           C-USC1206             C1206      rcl         1
+C2       100n           C-USC1206             C1206      rcl         1
+C3       100n           C-USC1206             C1206      rcl         1
+C4       100n           C-USC1206             C1206      rcl         1
+C5       100n           C-USC1206             C1206      rcl         1
+C6       100n           C-USC1206             C1206      rcl         1
+C7       100n           C-USC1206             C1206      rcl         1
+C8       100n           C-USC1206             C1206      rcl         1
+C9       100n           C-USC1206             C1206      rcl         1
+C10      100n           C-USC1206             C1206      rcl         1
+C11      100n           C-USC1206             C1206      rcl         1
+C12      100n           C-USC1206             C1206      rcl         1
+EXT1     057-040-1      057-040-1             057-040-1  con-panduit 1
+EXT2     057-040-1      057-040-1             057-040-1  con-panduit 1
+R1       10K            R-US_M0805            M0805      rcl         1
+R2       10K            R-US_M0805            M0805      rcl         1
+R3       10K            R-US_M0805            M0805      rcl         1
+R4       100            R-US_M0805            M0805      rcl         1
+R5       100            R-US_M0805            M0805      rcl         1
+R6       100            R-US_M0805            M0805      rcl         1
+R7       10K            R-US_M0805            M0805      rcl         1
+R8       100            R-US_M0805            M0805      rcl         1
+
+U1       PEB20525 TQFP  PEB20525PEB20525-TQFP TQFP100    inf         1
+U2       MAX3486        MAX3486               SO08       maxim       1
+U3       MAX3486        MAX3486               SO08       maxim       1
+U4       MAX3486        MAX3486               SO08       maxim       1
+U5       MAX3486        MAX3486               SO08       maxim       1
+X1       30Mhz          CB3LV                 SMD7.5X5MM crystal     1
+X2       20Mhz          CRYSTALHC49S          HC49/S     crystal     1

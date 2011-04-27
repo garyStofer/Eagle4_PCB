@@ -1,0 +1,94 @@
+EAGLE Version 4.16r1 Copyright (c) 1988-2006 CadSoft
+
+Electrical Rule Check for C:/Program Files/EAGLE-4.16r1/projects/SDI500-SDLC/sdlc.sch at 11/12/2007 12:55:58p
+
+WARNING: Sheet 1/1: unconnected Pin: EXT1-1 S
+WARNING: Sheet 1/1: unconnected Pin: EXT1-2 S
+WARNING: Sheet 1/1: unconnected Pin: EXT1-5 S
+WARNING: Sheet 1/1: unconnected Pin: EXT1-6 S
+WARNING: Sheet 1/1: unconnected Pin: EXT1-9 S
+WARNING: Sheet 1/1: unconnected Pin: EXT1-10 S
+WARNING: Sheet 1/1: unconnected Pin: EXT1-11 S
+WARNING: Sheet 1/1: unconnected Pin: EXT1-12 S
+WARNING: Sheet 1/1: unconnected Pin: EXT1-13 S
+WARNING: Sheet 1/1: unconnected Pin: EXT1-14 S
+WARNING: Sheet 1/1: unconnected Pin: EXT1-15 S
+WARNING: Sheet 1/1: unconnected Pin: EXT1-16 S
+WARNING: Sheet 1/1: unconnected Pin: EXT1-26 S
+WARNING: Sheet 1/1: unconnected Pin: EXT1-27 S
+WARNING: Sheet 1/1: unconnected Pin: EXT1-28 S
+WARNING: Sheet 1/1: unconnected Pin: EXT1-37 S
+WARNING: Sheet 1/1: unconnected Pin: EXT1-38 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-1 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-2 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-3 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-4 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-5 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-6 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-7 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-8 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-9 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-10 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-11 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-12 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-13 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-14 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-15 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-16 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-17 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-18 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-19 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-20 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-21 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-22 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-23 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-24 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-27 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-28 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-29 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-30 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-31 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-32 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-33 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-34 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-35 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-36 S
+WARNING: Sheet 1/1: unconnected Pin: EXT2-37 S
+WARNING: Sheet 1/1: POWER Pin U1G$2 VSS13 connected to GND
+WARNING: Sheet 1/1: POWER Pin U1G$2 VSS14 connected to GND
+WARNING: Sheet 1/1: POWER Pin U1G$2 VSS15 connected to GND
+WARNING: Sheet 1/1: POWER Pin U1G$2 VDD3_15 connected to VDD
+WARNING: Sheet 1/1: POWER Pin U1G$2 VDD3_14 connected to VDD
+WARNING: Sheet 1/1: POWER Pin U1G$2 VDD3_13 connected to VDD
+WARNING: Sheet 1/1: POWER Pin U1G$2 VDD3_12 connected to VDD
+WARNING: Sheet 1/1: POWER Pin U1G$3 VDD3_1 connected to VDD
+WARNING: Sheet 1/1: POWER Pin U1G$3 VDD3_2 connected to VDD
+WARNING: Sheet 1/1: POWER Pin U1G$3 VDD3_3 connected to VDD
+WARNING: Sheet 1/1: POWER Pin U1G$3 VDD3_4 connected to VDD
+WARNING: Sheet 1/1: POWER Pin U1G$3 VDD3_5 connected to VDD
+WARNING: Sheet 1/1: POWER Pin U1G$3 VDD3_6 connected to VDD
+WARNING: Sheet 1/1: POWER Pin U1G$3 VDD3_7 connected to VDD
+WARNING: Sheet 1/1: POWER Pin U1G$3 VDD3_8 connected to VDD
+WARNING: Sheet 1/1: POWER Pin U1G$3 VDD3_9 connected to VDD
+WARNING: Sheet 1/1: POWER Pin U1G$3 VDD3_10 connected to VDD
+WARNING: Sheet 1/1: POWER Pin U1G$3 VDD3_11 connected to VDD
+WARNING: Sheet 1/1: POWER Pin U1G$3 VDDA connected to VDD
+WARNING: Sheet 1/1: POWER Pin U1G$4 VSS1 connected to GND
+WARNING: Sheet 1/1: POWER Pin U1G$4 VSS2 connected to GND
+WARNING: Sheet 1/1: POWER Pin U1G$4 VSS3 connected to GND
+WARNING: Sheet 1/1: POWER Pin U1G$4 VSS4 connected to GND
+WARNING: Sheet 1/1: POWER Pin U1G$4 VSS5 connected to GND
+WARNING: Sheet 1/1: POWER Pin U1G$4 VSS6 connected to GND
+WARNING: Sheet 1/1: POWER Pin U1G$4 VSS7 connected to GND
+WARNING: Sheet 1/1: POWER Pin U1G$4 VSS8 connected to GND
+WARNING: Sheet 1/1: POWER Pin U1G$4 VSS9 connected to GND
+WARNING: Sheet 1/1: POWER Pin U1G$4 VSS10 connected to GND
+WARNING: Sheet 1/1: POWER Pin U1G$4 VSS11 connected to GND
+WARNING: Sheet 1/1: POWER Pin U1G$4 VSS12 connected to GND
+WARNING: Sheet 1/1: POWER Pin U1G$4 VSSA connected to GND
+WARNING: Sheet 1/1: POWER Pin X1 VCC connected to VDD
+
+Board and schematic are consistent
+
+    0 errors
+   85 warnings

@@ -1,0 +1,268 @@
+Netlist
+
+Exported from sdlc.sch at 11/13/2007 12:40:48p
+
+EAGLE Version 4.16r1 Copyright (c) 1988-2006 CadSoft
+
+Net      Part     Pad      Pin        Sheet
+
+GND      C1       2        2          1
+         C10      2        2          1
+         C11      2        2          1
+         C12      2        2          1
+         C2       2        2          1
+         C3       2        2          1
+         C4       2        2          1
+         C5       2        2          1
+         C6       2        2          1
+         C7       2        2          1
+         C8       2        2          1
+         C9       2        2          1
+         EXT1     40       S          1
+         EXT2     40       S          1
+         R2       1        1          1
+         U1       100      TDI        1
+         U1       16       VSS2       1
+         U1       2        TCK        1
+         U1       22       VSS3       1
+         U1       28       VSS4       1
+         U1       33       BUS-WIDTH  1
+         U1       34       VSS5       1
+         U1       4        VSS1       1
+         U1       41       VSS6       1
+         U1       46       TMS        1
+         U1       48       VSS7       1
+         U1       50       VSS8       1
+         U1       51       VSS9       1
+         U1       57       VSS10      1
+         U1       6        VSSA       1
+         U1       63       VSS11      1
+         U1       68       TEST1      1
+         U1       69       TEST2      1
+         U1       71       VSS12      1
+         U1       77       VSS13      1
+         U1       83       VSS14      1
+         U1       93       VSS15      1
+         U1       99       TRST       1
+         U2       5        GND        1
+         U3       2        RE/        1
+         U3       3        DE         1
+         U3       4        DI         1
+         U3       5        GND        1
+         U4       5        GND        1
+         U5       2        RE/        1
+         U5       3        DE         1
+         U5       4        DI         1
+         U5       5        GND        1
+         X1       2        GND        1
+
+N$1      EXT1     17       S          1
+         U1       29       A7         1
+
+N$2      EXT1     18       S          1
+         U1       30       A6         1
+
+N$3      EXT1     19       S          1
+         U1       31       A5         1
+
+N$4      EXT1     20       S          1
+         U1       32       A4         1
+
+N$5      EXT1     21       S          1
+         U1       36       A3         1
+
+N$6      EXT1     22       S          1
+         U1       37       A2         1
+
+N$7      EXT1     23       S          1
+         U1       38       A1         1
+
+N$8      EXT1     24       S          1
+         U1       39       A0         1
+
+N$9      EXT1     29       S          1
+         U1       67       D7         1
+
+N$10     EXT1     30       S          1
+         U1       66       D6         1
+
+N$11     EXT1     31       S          1
+         U1       65       D5         1
+
+N$12     EXT1     32       S          1
+         U1       64       D4         1
+
+N$13     EXT1     33       S          1
+         U1       61       D3         1
+
+N$14     EXT1     34       S          1
+         U1       60       D2         1
+
+N$15     EXT1     35       S          1
+         U1       59       D1         1
+
+N$16     EXT1     36       S          1
+         U1       58       D0         1
+
+N$17     SJ1      2        2          1
+         U1       43       CS         1
+
+N$18     SJ2      2        2          1
+         U1       20       INT        1
+
+N$19     EXT1     8        S          1
+         U1       52       RD         1
+
+N$20     EXT1     7        S          1
+         U1       53       WR         1
+
+N$21     EXT1     25       S          1
+         U1       19       RESET      1
+
+N$22     EXT1     3        S          1
+         SJ1      1        1          1
+
+N$23     EXT2     26       S          1
+         SJ2      3        3          1
+
+N$24     EXT2     25       S          1
+         SJ2      1        1          1
+
+N$25     R2       2        2          1
+         U1       42       BM         1
+
+N$26     R1       2        2          1
+         U1       44       BHE        1
+         U1       45       R/W_       1
+
+N$27     EXT1     4        S          1
+         SJ1      3        3          1
+
+N$28     R3       2        2          1
+         U1       85       DACKA      1
+
+N$29     R4       2        2          1
+         U2       1        RO         1
+         U2       4        DI         1
+
+N$30     TP1      1        TP         1
+         U1       87       DRRB/GP1   1
+
+N$31     U1       8        XTAL1      1
+         X2       1        1          1
+
+N$33     R8       2        2          1
+         U4       4        DI         1
+
+N$35     U1       88       DRTB/GP0   1
+         U2       2        RE/        1
+         U2       3        DE         1
+
+N$36     TP2      1        TP         1
+         U1       11       CD_A       1
+
+N$37     R8       1        1          1
+         U1       14       TX_D_A     1
+
+N$38     R5       1        1          1
+         U1       13       RX_CLK_A   1
+
+N$39     R6       1        1          1
+         U1       12       RX_D_A     1
+
+N$40     R4       1        1          1
+         U1       17       TX_CLK_A   1
+
+N$41     TP3      1        TP         1
+         U1       18       RTS_A      1
+
+N$42     TP4      1        TP         1
+         U1       10       CTS_A      1
+
+N$43     R5       2        2          1
+         U3       1        RO         1
+
+N$44     R6       2        2          1
+         U5       1        RO         1
+
+N$45     EXT2     38       S          1
+         SJ4      3        3          1
+
+N$47     U1       7        XTAL2      1
+         X2       2        2          1
+
+N$48     TX_CLK_B 1        TP         1
+         U2       7        B          1
+
+N$49     TX_CLK_A 1        TP         1
+         U2       6        A          1
+
+N$50     RX_CLK_B 1        TP         1
+         U3       7        B          1
+
+N$51     RX_CLK_A 1        TP         1
+         U3       6        A          1
+
+N$52     TX_DTA_B 1        TP         1
+         U4       7        B          1
+
+N$53     TX_DTA_A 1        TP         1
+         U4       6        A          1
+
+N$54     RX_DTA_B 1        TP         1
+         U5       7        B          1
+
+N$55     RX_DTA_A 1        TP         1
+         U5       6        A          1
+
+N$56     R7       2        2          1
+         U1       89       DACKB/GP2  1
+
+Q2       U1       55       CLK        1
+         X1       3        FO         1
+
+VCC      C10      1        1          1
+         C11      1        1          1
+         C12      1        1          1
+         C9       1        1          1
+         SJ4      2        2          1
+         U2       8        VCC        1
+         U3       8        VCC        1
+         U4       2        RE/        1
+         U4       3        DE         1
+         U4       8        VCC        1
+         U5       8        VCC        1
+
+VDD      C1       1        1          1
+         C2       1        1          1
+         C3       1        1          1
+         C4       1        1          1
+         C5       1        1          1
+         C6       1        1          1
+         C7       1        1          1
+         C8       1        1          1
+         EXT1     39       S          1
+         EXT2     39       S          1
+         R1       1        1          1
+         R3       1        1          1
+         R7       1        1          1
+         SJ4      1        1          1
+         U1       15       VDD3_2     1
+         U1       21       VDD3_3     1
+         U1       27       VDD3_4     1
+         U1       3        VDD3_1     1
+         U1       35       VDD3_5     1
+         U1       40       VDD3_6     1
+         U1       47       VDD3_7     1
+         U1       49       VDD3_8     1
+         U1       56       VDD3_9     1
+         U1       62       VDD3_10    1
+         U1       70       VDD3_11    1
+         U1       76       VDD3_12    1
+         U1       82       VDD3_13    1
+         U1       9        VDDA       1
+         U1       92       VDD3_14    1
+         U1       98       VDD3_15    1
+         X1       1        OE         1
+         X1       4        VCC        1
+
