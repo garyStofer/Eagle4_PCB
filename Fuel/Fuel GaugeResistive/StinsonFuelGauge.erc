@@ -1,0 +1,17 @@
+EAGLE Version 4.16r1 Copyright (c) 1988-2006 CadSoft
+
+Electrical Rule Check for C:/Program Files/EAGLE-4.16r1/projects/Fuel Gauge/StinsonFuelGauge.sch at  6/18/2007 02:31:49p
+
+WARNING: Sheet 1/1: SUPPLY Pin PE overwritten with GND
+WARNING: Sheet 1/1: POWER Pin IC2 1 connected to V3_3V
+WARNING: Sheet 1/1: POWER Pin IC2 14 connected to GND
+WARNING: Sheet 1/1: POWER Pin OP1 V+ connected to V-5V
+WARNING: Sheet 1/1: POWER Pin OP1 V- connected to GND
+WARNING: Sheet 1/1: POWER Pin IC1 V+ connected to V3_3V
+WARNING: Sheet 1/1: Nets N$13 and C_SEN too close at (0.8 3.2)
+WARNING: Sheet 1/1, Net N$13: wire overlaps pin at (0.8 3.2)
+
+Board and schematic are consistent
+
+    0 errors
+    8 warnings

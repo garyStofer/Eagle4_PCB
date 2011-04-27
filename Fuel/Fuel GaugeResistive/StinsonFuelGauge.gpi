@@ -1,0 +1,46 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.16r1/projects/Fuel Gauge/StinsonFuelGauge.gpi
+
+ Date              :  6/22/2007 09:53:40a
+ Plotfile          : C:/Program Files/EAGLE-4.16r1/projects/Fuel Gauge/StinsonFuelGauge.sts
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      oval      0.0792inch x 0.1452inch     3
+ D11      round     0.1560inch               1
+ D12      round     0.0624inch               5
+ D13      octagon   0.0624inch               3
+ D14      oval      0.0624inch x 0.1144inch     6
+ D15      round     0.4900inch               5
+ D16      round     0.3900inch               3
+ D17      round     0.0480inch               8
+ D18      square    0.0576inch               2
+ D19      square    0.0480inch               1
+
