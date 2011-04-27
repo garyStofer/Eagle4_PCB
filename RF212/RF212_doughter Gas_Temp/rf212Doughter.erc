@@ -1,0 +1,45 @@
+EAGLE Version 4.16r1 Copyright (c) 1988-2006 CadSoft
+
+Electrical Rule Check for C:/Program Files/EAGLE-4.16r1/projects/RF212_doughter sensor/rf212Doughter.sch at  9/02/2010 03:55:07p
+
+WARNING: Sheet 1/1: POWER Pin U2 V+ connected to +3.3V
+WARNING: Sheet 1/1: POWER Pin S1 P$H2 connected to N$1
+WARNING: Sheet 1/1: POWER Pin S1 P$H1 connected to V_OUT
+WARNING: Sheet 1/1, Net +3.3V: missing Junction at (2 2.9)
+WARNING: Sheet 1/1, Net GND: missing Junction at (-0.5 1.5)
+WARNING: Sheet 1/1, Net GND: missing Junction at (4.1 -0.2)
+WARNING: Sheet 1/1, Net GND: missing Junction at (0.1 1.4)
+WARNING: Sheet 1/1, Net GND: missing Junction at (0.1 1.7)
+WARNING: Sheet 1/1, Net GND: missing Junction at (1.7 -0.2)
+WARNING: Sheet 1/1, Net GND: missing Junction at (2.2 -0.2)
+WARNING: Sheet 1/1, Net GND: missing Junction at (2.4 -0.2)
+WARNING: Sheet 1/1, Net GND: missing Junction at (2.6 2.3)
+WARNING: Sheet 1/1, Net GND: missing Junction at (2.6 2.6)
+WARNING: Sheet 1/1, Net GND: missing Junction at (3.5 -0.2)
+WARNING: Sheet 1/1, Net N$3: missing Junction at (3 0.2)
+WARNING: Sheet 1/1, Net N$3: missing Junction at (3.9 0.2)
+WARNING: Sheet 1/1, Net ADC6: missing Junction at (5.9 0.6)
+WARNING: Sheet 1/1, Net ADC7: missing Junction at (1.1 0.5)
+WARNING: Sheet 1/1, Net V_OUT: missing Junction at (4.1 0.8)
+WARNING: Sheet 1/1, Net V_OUT: missing Junction at (4.1 1.8)
+WARNING: Sheet 1/1, Net V_OUT: missing Junction at (4.89 1.36)
+WARNING: Sheet 1/1, Net V_OUT: missing Junction at (4.89 1.8)
+WARNING: Sheet 1/1, Net V_OUT: missing Junction at (3 0.6)
+WARNING: Sheet 1/1, Net V_OUT: missing Junction at (3.9 0.6)
+WARNING: Sheet 1/1, Net V_OUT: missing Junction at (3.9 0.8)
+WARNING: Sheet 1/1, Net N$11: missing Junction at (1.1 1.1)
+WARNING: Sheet 1/1, Net N$11: missing Junction at (1.4 1.1)
+WARNING: Sheet 1/1, Net N$11: missing Junction at (1.6 1.1)
+WARNING: Sheet 1/1, Net N$5: missing Junction at (5.9 1.25)
+
+Parts/Elements with inconsistent values:
+
+  Name     Schematic      Board
+
+  V_IN+    TPPAD1-17      TPPAD1-13
+  V_IN-    TPPAD1-17      TPPAD1-13
+
+ERROR: Board and schematic are not consistent!
+
+    1 errors
+   29 warnings
