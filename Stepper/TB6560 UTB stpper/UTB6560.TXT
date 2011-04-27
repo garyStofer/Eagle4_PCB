@@ -1,0 +1,54 @@
+UTB6560 NOTES
+=============
+
+
+U1 DRIVER CHIP
+--------------
+
+  TB6560HQ
+
+
+VR1 VOLTAGE REGULATOR
+---------------------
+
+  7805 WITH 35V OR MORE INPUT, 5V OUTPUT (TO220)
+
+
+CAPACITORS
+----------
+
+  C1:  47uF OR MORE AT 35V OR MORE  (RADIAL 2.5mm OR 0.1")
+  C2:   0.33uF                      (RADIAL 2.5mm OR 0.1")
+  C3:  10uF AT 5V OR MORE           (RADIAL 2mm)
+  C4:   0.1uF                       (RADIAL 2.5mm OR 0.1")
+  C5:      0.1nF = 100pF            (RADIAL 2.5mm OR 0.1")
+
+
+R1 AND R2 SENSE RESISTORS
+-------------------------
+
+  VALUE = 0.5 / CURRENT
+  WATTAGE = 0.5 * CURRENT
+
+  EXAMPLE: FOR 3.3A NEED 0.15Ohm (0R15) AT MIN 1.7W
+
+  PACKAGE: AXIAL (NOT WIREWOUND)
+
+
+R3 PULLUP RESISTOR
+------------------
+
+  VALUE = 2KOhm (2K)
+
+  PACKAGE: AXIAL
+
+
+J1 JUMPER SETTINGS
+------------------
+
+  T1 T2 CURRENT    M1 M2 STEP    D1 D2 DECAY
+  -- -- -------    -- -- ----    -- -- -----
+   :  :    100%     :  :  1/1     :  :    0%    <- DEFAULT
+  [:  :     75%    [:  :  1/2    [:  :   25%
+   : [:     50%     : [:  1/4     : [:   50%
+  [: [:     20%    [: [:  1/8    [: [:  100%
