@@ -1,0 +1,23 @@
+[Eagle]
+Version="04 16 10"
+Platform="Windows"
+Serial="681354C010-LSR-W-1CP"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Discrete/rcl.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/AllOfMine/ATMEL.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Connectors/con-lstb.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/AllOfMine/Stofer.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="189 214 1375 978"
+State=2
+Number=0
+
+[Desktop]
+Screen="1680 1050"
+Window="Win_1"
