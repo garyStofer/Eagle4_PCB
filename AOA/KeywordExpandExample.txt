@@ -1,0 +1,8 @@
+the  SVN keyword expansion is as follows 
+
+This is ID  $Id$
+This is date $Date$
+this is headurl $HeadURL$
+This is Author $Author$
+This is Date $Date$
+This is URL   $URL$
