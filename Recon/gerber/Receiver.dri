@@ -1,6 +1,6 @@
 Drill Station Info File: D:/Eagle4_project/Recon/Receiver.dri
 
- Date              :  9/17/2012 12:29:24p
+ Date              : 11/20/2012 09:13:52a
  Drills            : generated
  Device            : Excellon drill station
 
@@ -25,14 +25,15 @@ Drills used:
 
  Code  Size       used
 
- T01   0.0240inch    25
- T02   0.0320inch    56
- T03   0.0400inch     2
- T04   0.0551inch     1
- T05   0.0630inch     4
- T06   0.1260inch     4
+ T01   0.0280inch    13
+ T02   0.0320inch    44
+ T03   0.0360inch    28
+ T04   0.0400inch     2
+ T05   0.0551inch     1
+ T06   0.0630inch     4
+ T07   0.1260inch     4
 
-Total number of drills: 92
+Total number of drills: 96
 
 Plotfiles:
 
