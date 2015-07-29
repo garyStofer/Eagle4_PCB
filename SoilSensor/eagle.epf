@@ -1,0 +1,33 @@
+[Eagle]
+Version="04 16 10"
+Platform="Windows"
+Serial="681354C010-LSR-W-1CP"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/TransistorTriac/transistor-npn.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/AllOfMine/MY_ATMEL.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/AllOfMine/PCB-Outlines.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/AllOfMine/Stofer.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/AllOfMine/at90usb.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/AllOfMine/dedenbear.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/TransistorTriac/transistor-fet.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/TransistorTriac/transistor-pnp.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/TransistorTriac/transistor-power.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/TransistorTriac/transistor-small-signal.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/TransistorTriac/transistor.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/TransistorTriac/triac.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Discrete/ptc-ntc.lbr"
+UsedLibrary="C:/Program Files/EAGLE-4.16r1/lbr/Connectors/Headers.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="25 24 1323 903"
+State=2
+Number=0
+
+[Desktop]
+Screen="1680 1050"
+Window="Win_1"
